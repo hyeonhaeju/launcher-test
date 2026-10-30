@@ -1,0 +1,16 @@
+{
+  "$schema": "file:///C:/Users/hyeon/AppData/Local/LauncherStudio/projects/launcher-2610300457/root/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "테스트MC",
+    "description": "",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "",
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.20.1"
+  },
+  "untrackedFiles": []
+}
